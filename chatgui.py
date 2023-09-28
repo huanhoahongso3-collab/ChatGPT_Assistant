@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 
 # Set up OpenAI API credentials
-openai.api_key = "YOUR_API_KEY"
+openai.api_key = "nv-30bVqUG136OK8PmNbXrkN0V4x0SSacDnnBprfvIe1rO2gh6l"
 
 # Function to handle sending a message
 def send_message():
